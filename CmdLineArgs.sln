@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34302.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmdLineArgs", "CmdLineArgs\CmdLineArgs.csproj", "{97659570-AEF9-4EF4-B5FD-3C0DB478D604}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CmdLineArgs", "CmdLineArgs\CmdLineArgs.csproj", "{97659570-AEF9-4EF4-B5FD-3C0DB478D604}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Misc", "Misc", "{4CCCCED4-B2D7-4C16-89F0-0DEA8F5A1EF4}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
