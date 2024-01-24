@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CmdLineArgs": {
+      "commandName": "Project",
+      "commandLineArgs": "foo.txt bar.txt /output foobar.cs /id 5860F36D-6207-47F9-9909-62F2B403BBA8 /ip 192.168.0.104 /ifstale"
+    }
+  }
+}
